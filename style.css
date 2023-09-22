@@ -12,11 +12,6 @@ body {
     text-align: center;
     color: azure;
 }
-
-h1 {
-    font-size: 40px;
-}
-
 #assignment_1
 {
     display: flex;
@@ -28,6 +23,7 @@ h1 {
 h1{
     display: flex;
     justify-content: center;
+    font-size: 40px;
     
 }
 
